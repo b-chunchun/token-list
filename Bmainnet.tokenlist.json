@@ -8,14 +8,6 @@
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 20212,
-      "address": "0x04F682d3177450b80A1a56174828733483D5534a",
-      "name": "Mtt coin",
-      "symbol": "MTT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/b-chunchun/token-list/b-testnet/assets/asset_MTT.png"
-    },
-    {
       "chainId": 434,
       "address": "0x2496b5b9Ef600c5f4A616d9Eb82F5a35f3A32a1A",
       "name": "Multi Table Tournament",
