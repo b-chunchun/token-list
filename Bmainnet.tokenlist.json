@@ -14,6 +14,14 @@
       "symbol": "MTT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/b-chunchun/token-list/b-testnet/assets/asset_MTT.png"
+    },
+    {
+      "chainId": 434,
+      "address": "0xb8a4461625F11D075e62d9dDd478b5FcBf5bA8cb",
+      "name": "MyToken",
+      "symbol": "MTK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/b-chunchun/token-list/b-testnet/assets/asset_MTT.png"
     }
   ],
   "version": {
